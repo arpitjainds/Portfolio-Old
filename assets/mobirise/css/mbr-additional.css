@@ -1383,6 +1383,10 @@ body {
 .cid-quj1OenEIO P {
   text-align: center;
 }
+.cid-quj1OenEIO .mbr-section-title,
+.cid-quj1OenEIO .mbr-section-btn B {
+  color: #ffffff;
+}
 .cid-qHbuiKzr5t {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2967,6 +2971,11 @@ body {
 }
 .cid-qGPxC7oC3e {
   background: linear-gradient(45deg, #7fd9fc, #6576aa);
+}
+.cid-qHceLDCG8T {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-qH0dwlqQCB {
   padding-top: 90px;
